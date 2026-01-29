@@ -19,7 +19,7 @@ This project simulates an I²C sensor (MPU6050 accelerometer + gyroscope) connec
   ->Run simulation → view sensor data on OLED + Serial Monitor.
 
 #Output
-Time: 500 ms | AccelX: 0.12 Y: -0.05 Z: 9.81
-Time: 1000 ms | AccelX: 0.10 Y: -0.06 Z: 9.80
+ AccelX: 0.12 Y: -0.05 Z: 9.81
+ AccelX: 0.10 Y: -0.06 Z: 9.80
 
 
